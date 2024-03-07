@@ -11,26 +11,14 @@
     <h2>Silahkan perkenalkan diri anda</h2>
     <hr color="blue">
     <?php
-    print "<b><font face='arial' size=5color='sienna'>Momentumtahunbaru memang palingenakuntukdijadikanturningperbaikan diri<br>";
-    print "But how? Begitu banyakkebiasaanburuk,begitubanyakmasalah,
-        begitubanyaktujuan,<br>";
-    echo "begitubanyakmimpi,bla...bla...bla...Stop! tentukan prioritas...firstthing
-        first!</font></b>";
-    ?>
-
-    <?php
-    print "<pre>";
-    print "<center><fontsize=14color='magenta'>BIODATA</font></center>";
-    echo "<hrsize=4width=60%color='blue'>";
-    print "<fontsize=12 color='red'>
- </font><br>";
-    print "<fontsize=12 color='blue'>
- </font><br>";
-    print "<fontsize=12 color='green'>
- Informatika</font><br>";
-    print "<fontsize=12 color='purple'>
- </font><br></pre>";
-    echo "<hrsize=4width=60%color='blue'>";
+    print "<center><font size=14 color='red'> BIODATA </font><br>";        
+    print"<font size=12 color='blue'> Nama : <b> Dwi Rizki Darmawan </b> </font><br>";
+    print "<font size=12 color='blue'> Email : dwimorf232@yahoo.com </font><br>";
+    print "<font size=12 color='blue'> Jurusan : Teknik Informatika </font><br>";
+    print "<font size=12 color='blue'> Hoby : Travel </font><br>";
+    echo "<hr size=4 width=60% color='blue'></center>";
+    echo "<font size=10 color='red'> KESAN </font><br>";
+    echo "<font size=5 color='blue'>Kesan pertama saya saat pertama belajar php sangat menyenangkan, kalau diperdalam lagi bahasa php ini sangat op(oper power)</font><br>"
     ?>
 </body>
 
